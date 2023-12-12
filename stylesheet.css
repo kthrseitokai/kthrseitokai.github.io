@@ -108,8 +108,7 @@ label #tozirubotan{
     font-size: 60px;
     position: fixed;
     top: -6px;
-    left: 620px;
-
+    text-align: center;
 }
 .main{
     position: relative;
